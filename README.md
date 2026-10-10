@@ -21,7 +21,7 @@ This app is for anyone tired of correcting that microphone selection over and ov
 
 ## Screenshot
 
-![Mac Input Guard settings window in English](assets/mac-input-guard-en.png)
+![Mac Input Guard settings window in English](assets/mac-input-guard-en.jpg)
 
 *The primary USB webcam is disconnected, so the built-in backup microphone is in use. Device names follow the macOS language; the app interface is English.*
 
