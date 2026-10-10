@@ -1,8 +1,29 @@
 # Mac Input Guard
 
-A small macOS app that keeps your preferred microphone selected when Bluetooth speakers or headphones connect.
+Keep your Mac’s built-in or USB microphone selected while using Bluetooth headphones or speakers.
 
 [Українською](README.uk.md) · [Download the app](https://github.com/simplaerai-sv/mac-input-guard-app/releases/latest)
+
+## Why this app exists
+
+Mac Input Guard was created after one recurring annoyance: macOS kept switching the default input to the microphone on a Bluetooth headset or speaker. The microphone the user wanted — the built-in Mac microphone or an external USB microphone — had to be selected again by hand.
+
+If the Bluetooth microphone does not give you the voice quality you want, this unexpected switch can affect calls, meetings, recordings, and speech recognition. Mac Input Guard keeps your preferred microphone selected, so you can continue listening through Bluetooth while speaking through the input you chose.
+
+This app is for anyone tired of correcting that microphone selection over and over.
+
+## Useful cases
+
+- **Bluetooth headphones for listening, built-in mic for speaking.** Keep playback on your headphones while using your laptop microphone as the default input.
+- **USB microphone or webcam at your desk.** Use it first; fall back to the built-in microphone when it is unplugged, and switch back when it returns.
+- **Calls, meetings, recording, and dictation.** Keep the intended input selected instead of discovering later that an unwanted microphone was used.
+- **Frequent Bluetooth reconnections.** Avoid reopening Sound settings just to restore your preferred microphone.
+
+## Screenshot
+
+![Mac Input Guard settings window in English](assets/mac-input-guard-en.png)
+
+*The primary USB webcam is disconnected, so the built-in backup microphone is in use. Device names follow the macOS language; the app interface is English.*
 
 ## What it does
 
